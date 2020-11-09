@@ -53,6 +53,7 @@
                 </StackPanel>
             </StackPanel>
         </Border>
+            
             <Border BorderBrush="Black" BorderThickness="5" Margin="5" CornerRadius="5">
                 <StackPanel Background="#FFF7FBDA" Orientation="Horizontal">
                     <GroupBox Header="Aficiones" Margin="10" FontSize="15">
